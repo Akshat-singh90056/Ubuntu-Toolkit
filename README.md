@@ -8,11 +8,14 @@ This repo is used to install basic essentials for Programming
 6. git
 ## Installation 
 ### Method 1
-1. Using Bash File
+1. Download linux.sh
+2. Give permission
    ```bash
-   1. Download linux.sh
-   2. chmod +x linux.sh
-   3. ./linux.sh
+   chmod +x linux.sh
+3. Run linux.sh
+   ```bash
+   ./linux.sh
+
 ### Method 2(uses GIT)
 1. Copy repo in local system
    ```bash
